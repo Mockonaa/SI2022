@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T10:31:19.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="dTSYmdbireLNqWfoi-at" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T10:34:25.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="DPlLUc-GDXSWwrTh5MhU" version="16.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1185" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="1483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-0" value="CONTEXTE DU SYSTEME" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-0" value="CONTEXTE DU SYSTEME" style="swimlane;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="19" y="-740" width="790" height="580" as="geometry" />
         </mxCell>
         <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.031;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0" source="ZGS5r5O1rVqSmJZZ7aWP-2" target="ZGS5r5O1rVqSmJZZ7aWP-11">
@@ -47,7 +47,7 @@
         <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-11" value="CONTRAINTES ENVIRONNEMENTALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0">
           <mxGeometry x="60" y="420" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-16" value="PETITES SURFACES&amp;nbsp;&lt;br&gt;EX : BOULANGERIE, EPICERIE, ETC." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0">
+        <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-16" value="PETITES SURFACES&amp;nbsp;&lt;br&gt;EX : BOULANGERIE, EPICERIE, ETC." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0">
           <mxGeometry x="20" y="270" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-18" value="NE DOIS PRENDRE TROP DE PLACE SUR LE COMPTOIR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0">
+        <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-18" value="NE DOIS PRENDRE TROP DE PLACE SUR LE COMPTOIR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0">
           <mxGeometry x="41" y="510" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZGS5r5O1rVqSmJZZ7aWP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.473;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZGS5r5O1rVqSmJZZ7aWP-0" source="ZGS5r5O1rVqSmJZZ7aWP-2" target="ZGS5r5O1rVqSmJZZ7aWP-1">
